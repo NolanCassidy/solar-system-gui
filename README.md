@@ -5,6 +5,10 @@ based of the actual mass and velocity of each.
 
 **Screenshots**
 
+![solar2](https://user-images.githubusercontent.com/22786772/57173168-67051900-6de0-11e9-92c5-cd1a87647472.png)
+![solar3](https://user-images.githubusercontent.com/22786772/57173169-679daf80-6de0-11e9-8efa-b2172cddd671.png)
+<img width="451" alt="solar1" src="https://user-images.githubusercontent.com/22786772/57173170-679daf80-6de0-11e9-82c3-b53e67dc30c1.png">
+
 **Tech/framework used**
 
 >   **Built with**
